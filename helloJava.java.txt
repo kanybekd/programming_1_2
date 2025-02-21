@@ -1,0 +1,9 @@
+public Car{
+	private int speed;
+	public Car(int speed){
+		this.speed=speed	
+}
+public void displayInfo(){
+System.out.print(speed)
+}
+}
