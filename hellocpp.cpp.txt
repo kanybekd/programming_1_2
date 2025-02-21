@@ -1,0 +1,4 @@
+int main(){
+	cout<<"hello GitHub";
+        return 0
+}
